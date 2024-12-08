@@ -1,0 +1,125 @@
+.center {
+	position: relative;
+	width: 99%;
+	background: #aaaaaa;
+	text-align: center;
+	margin: auto;
+	padding: 10px;
+	border-radius: 10px;
+	}
+.bottom {
+	position: relative;
+	margin: 10px auto;
+	cursor: pointer;
+	width: 200px;
+	height: 45px;
+	border-radius: 10px;
+	border: 2px outset #aaaaaa;
+	}
+	
+.bottom_s {
+	position: relative;
+	margin: 10px auto;
+	cursor: pointer;
+	width: 40px;
+	height: 45px;
+	border-radius: 10px;
+	border: 2px outset #aaaaaa;
+	}
+			
+.bottom:hover {
+	background: #fffefa;
+	color: #ffdddf;
+	}
+
+h1 {
+	text-align: center;
+	} 
+
+table {
+	background: white;
+	width: 1200px;
+	color: white; 
+	border-spacing: 0px; 
+	border-collapse: collapse; 
+	border-color: ffaaff; 
+	margin: auto; 
+	text-align: center;
+	vertical-align: top;
+	} 
+	
+td,th {
+	border: 1px solid grey; 
+	background: maroon; 
+	padding: 10px;
+	vertical-align: middle;
+	}
+	
+	.submitF {
+	display: inline;
+	}
+	
+.submit {
+	display: inline;
+	text-align: center;
+	background: maroon; 
+	color: white;
+	width: 150px;
+	height: 40px;
+	vertical-align: top;
+	padding: 0;
+	margin: 0;
+	cursor: pointer;
+	}
+	
+p {
+	color: #ffffff;
+	}	
+
+.new_tarif {
+color: #000000;
+width: 120px;
+}
+
+h2 {
+margin: 2px;
+color: #f5f5f5;
+}
+
+.service-top {
+margin: auto;
+height:  100px;
+width: 646px;
+}
+
+.service-header {
+background: #cccccc;
+width: 300px;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+text-align: center;
+border: 1px solid #e6e6e6;
+float: left;
+margin: 10px;
+}
+
+.service {
+background: #cccccc;
+width: 278px;
+padding: 10px;
+border: 1px solid #e6e6e6;
+text-align: left;
+height: 260px;
+}
+
+.service p {
+color: #f5f5f5;
+}
+
+.select {
+width: 200px;
+}
+
+.ab_td {
+background: #991400;
+}
